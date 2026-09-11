@@ -1,0 +1,398 @@
+pair,group,first,second,path,wup,path_synsets,wup_synsets
+assignment,house synonyms × train synonyms,family,aim,0.111111,0.375,class.n.01; aim.n.02,kin.n.01; bearing.n.02
+assignment,house synonyms × train synonyms,family,prepare,,,,
+assignment,house synonyms × train synonyms,family,develop,,,,
+assignment,house synonyms × train synonyms,family,direct,,,,
+assignment,house synonyms × train synonyms,family,discipline,0.142857,0.4,class.n.01; discipline.n.03,class.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,family,educate,,,,
+assignment,house synonyms × train synonyms,family,take,0.083333,0.266667,class.n.01; return.n.06,class.n.01; return.n.06
+assignment,house synonyms × train synonyms,family,coach,0.166667,0.631579,kin.n.01; coach.n.01,kin.n.01; coach.n.01
+assignment,house synonyms × train synonyms,family,caravan,0.25,0.727273,class.n.01; caravan.n.01,class.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,family,condition,0.142857,0.4,class.n.01; condition.n.01,class.n.01; condition.n.01
+assignment,house synonyms × train synonyms,family,groom,0.2,0.6,kin.n.01; groom.n.03,kin.n.01; groom.n.01
+assignment,house synonyms × train synonyms,family,railroad_train,0.090909,0.444444,kin.n.01; train.n.01,kin.n.01; train.n.01
+assignment,house synonyms × train synonyms,family,string,0.333333,0.8,class.n.01; string.n.09,class.n.01; string.n.09
+assignment,house synonyms × train synonyms,family,take_aim,,,,
+assignment,house synonyms × train synonyms,family,check,0.125,0.444444,class.n.01; arrest.n.02,kin.n.01; check.n.10
+assignment,house synonyms × train synonyms,family,civilise,,,,
+assignment,house synonyms × train synonyms,family,civilize,,,,
+assignment,house synonyms × train synonyms,family,cultivate,,,,
+assignment,house synonyms × train synonyms,family,gear,0.1,0.470588,kin.n.01; gear.n.04,kin.n.01; gear.n.04
+assignment,house synonyms × train synonyms,family,gearing,0.076923,0.4,kin.n.01; gearing.n.01,kin.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,family,geartrain,0.076923,0.4,kin.n.01; gearing.n.01,kin.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,family,power_train,0.076923,0.4,kin.n.01; gearing.n.01,kin.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,family,rail,0.111111,0.555556,family.n.01; rail.n.02,family.n.01; rail.n.02
+assignment,house synonyms × train synonyms,family,school,0.2,0.666667,family.n.02; school.n.04,family.n.01; school.n.01
+assignment,house synonyms × train synonyms,family,trail,0.111111,0.444444,class.n.01; lead.n.03,kin.n.01; trail.n.02
+assignment,house synonyms × train synonyms,family,wagon_train,0.25,0.727273,class.n.01; caravan.n.01,class.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,firm,aim,0.166667,0.285714,tauten.v.01; aim.v.02,tauten.v.01; aim.v.02
+assignment,house synonyms × train synonyms,firm,prepare,0.25,0.285714,tauten.v.02; fix.v.12,tauten.v.01; fix.v.12
+assignment,house synonyms × train synonyms,firm,develop,0.25,0.285714,tauten.v.01; develop.v.03,tauten.v.01; break.v.53
+assignment,house synonyms × train synonyms,firm,direct,0.333333,0.5,fast.s.05; direct.s.01,fast.s.05; direct.s.01
+assignment,house synonyms × train synonyms,firm,discipline,0.2,0.307692,tauten.v.02; discipline.v.01,firm.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,firm,educate,0.2,0.25,tauten.v.02; educate.v.01,tauten.v.01; educate.v.01
+assignment,house synonyms × train synonyms,firm,take,0.25,0.333333,tauten.v.01; assume.v.03,tauten.v.01; consume.v.02
+assignment,house synonyms × train synonyms,firm,coach,0.1,0.181818,tauten.v.01; coach.v.01,tauten.v.01; coach.v.01
+assignment,house synonyms × train synonyms,firm,caravan,0.166667,0.428571,tauten.v.01; caravan.v.01,firm.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,firm,condition,0.2,0.307692,tauten.v.02; condition.v.04,firm.n.01; condition.n.01
+assignment,house synonyms × train synonyms,firm,groom,0.166667,0.222222,tauten.v.02; dress.v.15,tauten.v.01; dress.v.15
+assignment,house synonyms × train synonyms,firm,railroad_train,0.0625,0.117647,firm.n.01; train.n.01,firm.n.01; train.n.01
+assignment,house synonyms × train synonyms,firm,string,0.25,0.461538,tauten.v.02; string.v.07,firm.n.01; string.n.09
+assignment,house synonyms × train synonyms,firm,take_aim,0.125,0.222222,tauten.v.01; aim.v.01,tauten.v.01; aim.v.01
+assignment,house synonyms × train synonyms,firm,check,0.25,0.333333,tauten.v.01; crack.v.01,tauten.v.01; check.v.08
+assignment,house synonyms × train synonyms,firm,civilise,0.25,0.285714,tauten.v.02; civilize.v.02,tauten.v.01; civilize.v.02
+assignment,house synonyms × train synonyms,firm,civilize,0.25,0.285714,tauten.v.02; civilize.v.02,tauten.v.01; civilize.v.02
+assignment,house synonyms × train synonyms,firm,cultivate,0.2,0.333333,tauten.v.01; cultivate.v.01,tauten.v.01; cultivate.v.01
+assignment,house synonyms × train synonyms,firm,gear,0.142857,0.25,tauten.v.01; gear.v.01,tauten.v.01; gear.v.01
+assignment,house synonyms × train synonyms,firm,gearing,0.142857,0.25,tauten.v.01; gear.v.01,tauten.v.01; gear.v.01
+assignment,house synonyms × train synonyms,firm,geartrain,0.055556,0.105263,firm.n.01; gearing.n.01,firm.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,firm,power_train,0.055556,0.105263,firm.n.01; gearing.n.01,firm.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,firm,rail,0.166667,0.736842,firm.n.01; rail.n.02,firm.n.01; rail.n.02
+assignment,house synonyms × train synonyms,firm,school,0.166667,0.625,tauten.v.02; educate.v.03,firm.n.01; school.n.01
+assignment,house synonyms × train synonyms,firm,trail,0.2,0.333333,tauten.v.01; trail.v.04,tauten.v.01; trail.v.04
+assignment,house synonyms × train synonyms,firm,wagon_train,0.111111,0.428571,firm.n.01; caravan.n.01,firm.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,theatre,aim,0.142857,0.625,dramaturgy.n.01; aim.n.03,dramaturgy.n.01; aim.n.03
+assignment,house synonyms × train synonyms,theatre,prepare,,,,
+assignment,house synonyms × train synonyms,theatre,develop,,,,
+assignment,house synonyms × train synonyms,theatre,direct,,,,
+assignment,house synonyms × train synonyms,theatre,discipline,0.166667,0.666667,dramaturgy.n.01; discipline.n.04,dramaturgy.n.01; discipline.n.04
+assignment,house synonyms × train synonyms,theatre,educate,,,,
+assignment,house synonyms × train synonyms,theatre,take,0.111111,0.555556,dramaturgy.n.01; take.n.02,dramaturgy.n.01; take.n.02
+assignment,house synonyms × train synonyms,theatre,coach,0.125,0.588235,theater.n.01; bus.n.01,theater.n.01; bus.n.01
+assignment,house synonyms × train synonyms,theatre,caravan,0.166667,0.666667,dramaturgy.n.01; caravan.n.01,dramaturgy.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,theatre,condition,0.166667,0.666667,dramaturgy.n.01; condition.n.08,dramaturgy.n.01; condition.n.08
+assignment,house synonyms × train synonyms,theatre,groom,0.090909,0.421053,field.n.11; groom.n.01,theater.n.01; groom.n.01
+assignment,house synonyms × train synonyms,theatre,railroad_train,0.125,0.588235,theater.n.01; train.n.01,theater.n.01; train.n.01
+assignment,house synonyms × train synonyms,theatre,string,0.142857,0.625,theater.n.01; string.n.01,theater.n.01; string.n.01
+assignment,house synonyms × train synonyms,theatre,take_aim,,,,
+assignment,house synonyms × train synonyms,theatre,check,0.142857,0.625,dramaturgy.n.01; bridle.n.02,dramaturgy.n.01; bridle.n.02
+assignment,house synonyms × train synonyms,theatre,civilise,,,,
+assignment,house synonyms × train synonyms,theatre,civilize,,,,
+assignment,house synonyms × train synonyms,theatre,cultivate,,,,
+assignment,house synonyms × train synonyms,theatre,gear,0.142857,0.625,theater.n.01; gear.n.04,theater.n.01; gear.n.04
+assignment,house synonyms × train synonyms,theatre,gearing,0.1,0.526316,theater.n.01; gearing.n.01,theater.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,theatre,geartrain,0.1,0.526316,theater.n.01; gearing.n.01,theater.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,theatre,power_train,0.1,0.526316,theater.n.01; gearing.n.01,theater.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,theatre,rail,0.166667,0.705882,theater.n.01; railing.n.01,theater.n.01; railing.n.01
+assignment,house synonyms × train synonyms,theatre,school,0.333333,0.875,theater.n.01; school.n.02,theater.n.01; school.n.02
+assignment,house synonyms × train synonyms,theatre,trail,0.166667,0.615385,field.n.11; trail.n.01,field.n.11; trail.n.01
+assignment,house synonyms × train synonyms,theatre,wagon_train,0.166667,0.666667,dramaturgy.n.01; caravan.n.01,dramaturgy.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,household,aim,0.090909,0.285714,family.n.01; aim.n.02,family.n.01; aim.n.02
+assignment,house synonyms × train synonyms,household,prepare,,,,
+assignment,house synonyms × train synonyms,household,develop,,,,
+assignment,house synonyms × train synonyms,household,direct,,,,
+assignment,house synonyms × train synonyms,household,discipline,0.111111,0.333333,family.n.01; discipline.n.03,family.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,household,educate,,,,
+assignment,house synonyms × train synonyms,household,take,0.071429,0.235294,family.n.01; return.n.06,family.n.01; return.n.06
+assignment,house synonyms × train synonyms,household,coach,0.076923,0.142857,family.n.01; coach.n.01,family.n.01; coach.n.01
+assignment,house synonyms × train synonyms,household,caravan,0.125,0.461538,family.n.01; caravan.n.01,family.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,household,condition,0.111111,0.333333,family.n.01; condition.n.01,family.n.01; condition.n.01
+assignment,house synonyms × train synonyms,household,groom,0.071429,0.133333,family.n.01; groom.n.01,family.n.01; groom.n.01
+assignment,house synonyms × train synonyms,household,railroad_train,0.066667,0.125,family.n.01; train.n.01,family.n.01; train.n.01
+assignment,house synonyms × train synonyms,household,string,0.142857,0.5,family.n.01; string.n.09,family.n.01; string.n.09
+assignment,house synonyms × train synonyms,household,take_aim,,,,
+assignment,house synonyms × train synonyms,household,check,0.1,0.307692,family.n.01; arrest.n.02,family.n.01; arrest.n.02
+assignment,house synonyms × train synonyms,household,civilise,,,,
+assignment,house synonyms × train synonyms,household,civilize,,,,
+assignment,house synonyms × train synonyms,household,cultivate,,,,
+assignment,house synonyms × train synonyms,household,gear,0.071429,0.133333,family.n.01; gear.n.04,family.n.01; gear.n.04
+assignment,house synonyms × train synonyms,household,gearing,0.058824,0.111111,family.n.01; gearing.n.01,family.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,household,geartrain,0.058824,0.111111,family.n.01; gearing.n.01,family.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,household,power_train,0.058824,0.111111,family.n.01; gearing.n.01,family.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,household,rail,0.111111,0.555556,family.n.01; rail.n.02,family.n.01; rail.n.02
+assignment,house synonyms × train synonyms,household,school,0.166667,0.666667,family.n.01; school.n.01,family.n.01; school.n.01
+assignment,house synonyms × train synonyms,household,trail,0.090909,0.285714,family.n.01; lead.n.03,family.n.01; lead.n.03
+assignment,house synonyms × train synonyms,household,wagon_train,0.125,0.461538,family.n.01; caravan.n.01,family.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,theater,aim,0.142857,0.625,dramaturgy.n.01; aim.n.03,dramaturgy.n.01; aim.n.03
+assignment,house synonyms × train synonyms,theater,prepare,,,,
+assignment,house synonyms × train synonyms,theater,develop,,,,
+assignment,house synonyms × train synonyms,theater,direct,,,,
+assignment,house synonyms × train synonyms,theater,discipline,0.166667,0.666667,dramaturgy.n.01; discipline.n.04,dramaturgy.n.01; discipline.n.04
+assignment,house synonyms × train synonyms,theater,educate,,,,
+assignment,house synonyms × train synonyms,theater,take,0.111111,0.555556,dramaturgy.n.01; take.n.02,dramaturgy.n.01; take.n.02
+assignment,house synonyms × train synonyms,theater,coach,0.125,0.588235,theater.n.01; bus.n.01,theater.n.01; bus.n.01
+assignment,house synonyms × train synonyms,theater,caravan,0.166667,0.666667,dramaturgy.n.01; caravan.n.01,dramaturgy.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,theater,condition,0.166667,0.666667,dramaturgy.n.01; condition.n.08,dramaturgy.n.01; condition.n.08
+assignment,house synonyms × train synonyms,theater,groom,0.090909,0.421053,field.n.11; groom.n.01,theater.n.01; groom.n.01
+assignment,house synonyms × train synonyms,theater,railroad_train,0.125,0.588235,theater.n.01; train.n.01,theater.n.01; train.n.01
+assignment,house synonyms × train synonyms,theater,string,0.142857,0.625,theater.n.01; string.n.01,theater.n.01; string.n.01
+assignment,house synonyms × train synonyms,theater,take_aim,,,,
+assignment,house synonyms × train synonyms,theater,check,0.142857,0.625,dramaturgy.n.01; bridle.n.02,dramaturgy.n.01; bridle.n.02
+assignment,house synonyms × train synonyms,theater,civilise,,,,
+assignment,house synonyms × train synonyms,theater,civilize,,,,
+assignment,house synonyms × train synonyms,theater,cultivate,,,,
+assignment,house synonyms × train synonyms,theater,gear,0.142857,0.625,theater.n.01; gear.n.04,theater.n.01; gear.n.04
+assignment,house synonyms × train synonyms,theater,gearing,0.1,0.526316,theater.n.01; gearing.n.01,theater.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,theater,geartrain,0.1,0.526316,theater.n.01; gearing.n.01,theater.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,theater,power_train,0.1,0.526316,theater.n.01; gearing.n.01,theater.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,theater,rail,0.166667,0.705882,theater.n.01; railing.n.01,theater.n.01; railing.n.01
+assignment,house synonyms × train synonyms,theater,school,0.333333,0.875,theater.n.01; school.n.02,theater.n.01; school.n.02
+assignment,house synonyms × train synonyms,theater,trail,0.166667,0.615385,field.n.11; trail.n.01,field.n.11; trail.n.01
+assignment,house synonyms × train synonyms,theater,wagon_train,0.166667,0.666667,dramaturgy.n.01; caravan.n.01,dramaturgy.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,sign,aim,0.25,0.571429,sign.v.06; aim.v.01,sign.n.06; aim.n.02
+assignment,house synonyms × train synonyms,sign,prepare,0.2,0.6,sign.v.04; fix.v.12,sign.v.05; train.v.01
+assignment,house synonyms × train synonyms,sign,develop,0.25,0.6,sign.v.06; develop.v.16,sign.v.05; train.v.01
+assignment,house synonyms × train synonyms,sign,direct,0.333333,0.6,gestural.s.01; direct.s.01,sign.v.05; direct.v.09
+assignment,house synonyms × train synonyms,sign,discipline,0.2,0.571429,sign.v.04; discipline.v.02,sign.n.06; discipline.n.01
+assignment,house synonyms × train synonyms,sign,educate,0.2,0.6,sign.v.05; train.v.01,sign.v.05; train.v.01
+assignment,house synonyms × train synonyms,sign,take,0.25,0.571429,sign.v.04; consume.v.02,sign.v.06; aim.v.01
+assignment,house synonyms × train synonyms,sign,coach,0.2,0.625,sign.v.05; coach.v.01,signboard.n.01; bus.n.01
+assignment,house synonyms × train synonyms,sign,caravan,0.2,0.571429,sign.v.04; caravan.v.01,augury.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,sign,condition,0.333333,0.833333,sign.v.03; stipulate.v.01,sign.v.03; stipulate.v.01
+assignment,house synonyms × train synonyms,sign,groom,0.142857,0.444444,sign.v.04; dress.v.15,signboard.n.01; groom.n.01
+assignment,house synonyms × train synonyms,sign,railroad_train,0.142857,0.625,signboard.n.01; train.n.01,signboard.n.01; train.n.01
+assignment,house synonyms × train synonyms,sign,string,0.25,0.666667,sign.v.06; string.v.01,signboard.n.01; string.n.01
+assignment,house synonyms × train synonyms,sign,take_aim,0.25,0.571429,sign.v.06; aim.v.01,sign.v.06; aim.v.01
+assignment,house synonyms × train synonyms,sign,check,0.25,0.8,sign.n.06; confirmation.n.01,sign.n.06; confirmation.n.01
+assignment,house synonyms × train synonyms,sign,civilise,0.2,0.333333,sign.v.04; civilize.v.02,sign.v.04; civilize.v.02
+assignment,house synonyms × train synonyms,sign,civilize,0.2,0.333333,sign.v.04; civilize.v.02,sign.v.04; civilize.v.02
+assignment,house synonyms × train synonyms,sign,cultivate,0.25,0.4,sign.v.04; cultivate.v.01,sign.v.04; cultivate.v.01
+assignment,house synonyms × train synonyms,sign,gear,0.166667,0.666667,sign.v.04; gear.v.01,signboard.n.01; gear.n.04
+assignment,house synonyms × train synonyms,sign,gearing,0.166667,0.555556,sign.v.04; gear.v.01,signboard.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,sign,geartrain,0.111111,0.555556,signboard.n.01; gearing.n.01,signboard.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,sign,power_train,0.111111,0.555556,signboard.n.01; gearing.n.01,signboard.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,sign,rail,0.25,0.75,sign.v.06; rail.v.07,signboard.n.01; railing.n.01
+assignment,house synonyms × train synonyms,sign,school,0.25,0.8,signboard.n.01; school.n.02,signboard.n.01; school.n.02
+assignment,house synonyms × train synonyms,sign,trail,0.333333,0.857143,sign.n.06; lead.n.03,sign.n.06; lead.n.03
+assignment,house synonyms × train synonyms,sign,wagon_train,0.142857,0.571429,augury.n.01; caravan.n.01,augury.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,business_firm,aim,0.083333,0.266667,firm.n.01; aim.n.02,firm.n.01; aim.n.02
+assignment,house synonyms × train synonyms,business_firm,prepare,,,,
+assignment,house synonyms × train synonyms,business_firm,develop,,,,
+assignment,house synonyms × train synonyms,business_firm,direct,,,,
+assignment,house synonyms × train synonyms,business_firm,discipline,0.1,0.307692,firm.n.01; discipline.n.03,firm.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,business_firm,educate,,,,
+assignment,house synonyms × train synonyms,business_firm,take,0.066667,0.222222,firm.n.01; return.n.06,firm.n.01; return.n.06
+assignment,house synonyms × train synonyms,business_firm,coach,0.071429,0.133333,firm.n.01; coach.n.01,firm.n.01; coach.n.01
+assignment,house synonyms × train synonyms,business_firm,caravan,0.111111,0.428571,firm.n.01; caravan.n.01,firm.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,business_firm,condition,0.1,0.307692,firm.n.01; condition.n.01,firm.n.01; condition.n.01
+assignment,house synonyms × train synonyms,business_firm,groom,0.066667,0.125,firm.n.01; groom.n.01,firm.n.01; groom.n.01
+assignment,house synonyms × train synonyms,business_firm,railroad_train,0.0625,0.117647,firm.n.01; train.n.01,firm.n.01; train.n.01
+assignment,house synonyms × train synonyms,business_firm,string,0.125,0.461538,firm.n.01; string.n.09,firm.n.01; string.n.09
+assignment,house synonyms × train synonyms,business_firm,take_aim,,,,
+assignment,house synonyms × train synonyms,business_firm,check,0.090909,0.285714,firm.n.01; arrest.n.02,firm.n.01; arrest.n.02
+assignment,house synonyms × train synonyms,business_firm,civilise,,,,
+assignment,house synonyms × train synonyms,business_firm,civilize,,,,
+assignment,house synonyms × train synonyms,business_firm,cultivate,,,,
+assignment,house synonyms × train synonyms,business_firm,gear,0.066667,0.125,firm.n.01; gear.n.04,firm.n.01; gear.n.04
+assignment,house synonyms × train synonyms,business_firm,gearing,0.055556,0.105263,firm.n.01; gearing.n.01,firm.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,business_firm,geartrain,0.055556,0.105263,firm.n.01; gearing.n.01,firm.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,business_firm,power_train,0.055556,0.105263,firm.n.01; gearing.n.01,firm.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,business_firm,rail,0.166667,0.736842,firm.n.01; rail.n.02,firm.n.01; rail.n.02
+assignment,house synonyms × train synonyms,business_firm,school,0.142857,0.625,firm.n.01; school.n.01,firm.n.01; school.n.01
+assignment,house synonyms × train synonyms,business_firm,trail,0.083333,0.266667,firm.n.01; lead.n.03,firm.n.01; lead.n.03
+assignment,house synonyms × train synonyms,business_firm,wagon_train,0.111111,0.428571,firm.n.01; caravan.n.01,firm.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,domiciliate,aim,0.166667,0.285714,reside.v.01; aim.v.02,reside.v.01; aim.v.02
+assignment,house synonyms × train synonyms,domiciliate,prepare,0.166667,0.285714,reside.v.01; fix.v.12,reside.v.01; fix.v.12
+assignment,house synonyms × train synonyms,domiciliate,develop,0.166667,0.285714,reside.v.01; break.v.53,reside.v.01; break.v.53
+assignment,house synonyms × train synonyms,domiciliate,direct,0.2,0.333333,reside.v.01; lead.v.01,reside.v.01; lead.v.01
+assignment,house synonyms × train synonyms,domiciliate,discipline,0.166667,0.285714,reside.v.01; discipline.v.02,reside.v.01; discipline.v.02
+assignment,house synonyms × train synonyms,domiciliate,educate,0.142857,0.25,reside.v.01; educate.v.01,reside.v.01; educate.v.01
+assignment,house synonyms × train synonyms,domiciliate,take,0.2,0.333333,reside.v.01; consume.v.02,reside.v.01; consume.v.02
+assignment,house synonyms × train synonyms,domiciliate,coach,0.1,0.181818,reside.v.01; coach.v.01,reside.v.01; coach.v.01
+assignment,house synonyms × train synonyms,domiciliate,caravan,0.166667,0.285714,reside.v.01; caravan.v.01,reside.v.01; caravan.v.01
+assignment,house synonyms × train synonyms,domiciliate,condition,0.142857,0.25,reside.v.01; condition.v.04,reside.v.01; condition.v.04
+assignment,house synonyms × train synonyms,domiciliate,groom,0.125,0.222222,reside.v.01; dress.v.15,reside.v.01; dress.v.15
+assignment,house synonyms × train synonyms,domiciliate,railroad_train,,,,
+assignment,house synonyms × train synonyms,domiciliate,string,0.166667,0.285714,reside.v.01; string.v.06,reside.v.01; string.v.06
+assignment,house synonyms × train synonyms,domiciliate,take_aim,0.125,0.222222,reside.v.01; aim.v.01,reside.v.01; aim.v.01
+assignment,house synonyms × train synonyms,domiciliate,check,0.2,0.333333,reside.v.01; check.v.08,reside.v.01; check.v.08
+assignment,house synonyms × train synonyms,domiciliate,civilise,0.166667,0.285714,reside.v.01; civilize.v.02,reside.v.01; civilize.v.02
+assignment,house synonyms × train synonyms,domiciliate,civilize,0.166667,0.285714,reside.v.01; civilize.v.02,reside.v.01; civilize.v.02
+assignment,house synonyms × train synonyms,domiciliate,cultivate,0.2,0.333333,reside.v.01; cultivate.v.01,reside.v.01; cultivate.v.01
+assignment,house synonyms × train synonyms,domiciliate,gear,0.142857,0.25,reside.v.01; gear.v.01,reside.v.01; gear.v.01
+assignment,house synonyms × train synonyms,domiciliate,gearing,0.142857,0.25,reside.v.01; gear.v.01,reside.v.01; gear.v.01
+assignment,house synonyms × train synonyms,domiciliate,geartrain,,,,
+assignment,house synonyms × train synonyms,domiciliate,power_train,,,,
+assignment,house synonyms × train synonyms,domiciliate,rail,0.25,0.666667,house.v.02; rail.v.03,house.v.02; rail.v.03
+assignment,house synonyms × train synonyms,domiciliate,school,0.142857,0.25,reside.v.01; school.v.03,reside.v.01; school.v.03
+assignment,house synonyms × train synonyms,domiciliate,trail,0.2,0.333333,reside.v.01; trail.v.04,reside.v.01; trail.v.04
+assignment,house synonyms × train synonyms,domiciliate,wagon_train,,,,
+assignment,house synonyms × train synonyms,home,aim,0.166667,0.615385,base.n.14; bearing.n.02,base.n.14; bearing.n.02
+assignment,house synonyms × train synonyms,home,prepare,0.166667,0.285714,home.v.02; fix.v.12,home.v.02; fix.v.12
+assignment,house synonyms × train synonyms,home,develop,0.166667,0.285714,home.v.02; break.v.53,home.v.02; break.v.53
+assignment,house synonyms × train synonyms,home,direct,0.333333,0.5,home.a.01; direct.a.01,home.a.01; direct.a.01
+assignment,house synonyms × train synonyms,home,discipline,0.166667,0.5,home.v.02; discipline.v.02,home.n.07; discipline.n.03
+assignment,house synonyms × train synonyms,home,educate,0.142857,0.25,home.v.02; educate.v.01,home.v.02; educate.v.01
+assignment,house synonyms × train synonyms,home,take,0.2,0.333333,home.v.02; consume.v.02,home.v.02; consume.v.02
+assignment,house synonyms × train synonyms,home,coach,0.125,0.6,dwelling.n.01; bus.n.01,home_plate.n.01; bus.n.01
+assignment,house synonyms × train synonyms,home,caravan,0.25,0.521739,home.v.02; caravan.v.01,home_plate.n.01; van.n.04
+assignment,house synonyms × train synonyms,home,condition,0.2,0.666667,home.n.07; condition.n.01,home.n.07; condition.n.01
+assignment,house synonyms × train synonyms,home,groom,0.125,0.421053,home.v.02; dress.v.15,dwelling.n.01; groom.n.01
+assignment,house synonyms × train synonyms,home,railroad_train,0.125,0.6,dwelling.n.01; train.n.01,home_plate.n.01; train.n.01
+assignment,house synonyms × train synonyms,home,string,0.2,0.625,home.v.02; string.v.03,dwelling.n.01; string.n.01
+assignment,house synonyms × train synonyms,home,take_aim,0.125,0.222222,home.v.02; aim.v.01,home.v.02; aim.v.01
+assignment,house synonyms × train synonyms,home,check,0.2,0.615385,home.v.02; check.v.08,home.n.07; arrest.n.02
+assignment,house synonyms × train synonyms,home,civilise,0.166667,0.285714,home.v.02; civilize.v.02,home.v.02; civilize.v.02
+assignment,house synonyms × train synonyms,home,civilize,0.166667,0.285714,home.v.02; civilize.v.02,home.v.02; civilize.v.02
+assignment,house synonyms × train synonyms,home,cultivate,0.2,0.333333,home.v.02; cultivate.v.01,home.v.02; cultivate.v.01
+assignment,house synonyms × train synonyms,home,gear,0.166667,0.736842,home_plate.n.01; gear.n.04,home_plate.n.01; gear.n.04
+assignment,house synonyms × train synonyms,home,gearing,0.142857,0.545455,home.v.02; gear.v.01,home_plate.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,home,geartrain,0.1,0.545455,dwelling.n.01; gearing.n.01,home_plate.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,home,power_train,0.1,0.545455,dwelling.n.01; gearing.n.01,home_plate.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,home,rail,0.2,0.705882,home.v.01; rail.v.03,dwelling.n.01; railing.n.01
+assignment,house synonyms × train synonyms,home,school,0.2,0.75,dwelling.n.01; school.n.02,dwelling.n.01; school.n.02
+assignment,house synonyms × train synonyms,home,trail,0.25,0.666667,home.v.02; trail.v.03,base.n.14; trail.n.01
+assignment,house synonyms × train synonyms,home,wagon_train,0.125,0.461538,family.n.01; caravan.n.01,family.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,mansion,aim,0.142857,0.571429,sign_of_the_zodiac.n.01; bearing.n.02,sign_of_the_zodiac.n.01; bearing.n.02
+assignment,house synonyms × train synonyms,mansion,prepare,,,,
+assignment,house synonyms × train synonyms,mansion,develop,,,,
+assignment,house synonyms × train synonyms,mansion,direct,,,,
+assignment,house synonyms × train synonyms,mansion,discipline,0.1,0.181818,sign_of_the_zodiac.n.01; discipline.n.03,sign_of_the_zodiac.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,mansion,educate,,,,
+assignment,house synonyms × train synonyms,mansion,take,0.066667,0.125,sign_of_the_zodiac.n.01; return.n.06,sign_of_the_zodiac.n.01; return.n.06
+assignment,house synonyms × train synonyms,mansion,coach,0.111111,0.555556,mansion.n.02; bus.n.01,mansion.n.02; bus.n.01
+assignment,house synonyms × train synonyms,mansion,caravan,0.090909,0.47619,sign_of_the_zodiac.n.01; caravan.n.01,mansion.n.02; van.n.04
+assignment,house synonyms × train synonyms,mansion,condition,0.1,0.181818,sign_of_the_zodiac.n.01; condition.n.01,sign_of_the_zodiac.n.01; condition.n.01
+assignment,house synonyms × train synonyms,mansion,groom,0.090909,0.4,sign_of_the_zodiac.n.01; groom.n.01,mansion.n.02; groom.n.01
+assignment,house synonyms × train synonyms,mansion,railroad_train,0.111111,0.555556,mansion.n.02; train.n.01,mansion.n.02; train.n.01
+assignment,house synonyms × train synonyms,mansion,string,0.125,0.588235,mansion.n.02; string.n.01,mansion.n.02; string.n.01
+assignment,house synonyms × train synonyms,mansion,take_aim,,,,
+assignment,house synonyms × train synonyms,mansion,check,0.111111,0.555556,mansion.n.02; check.n.10,mansion.n.02; check.n.10
+assignment,house synonyms × train synonyms,mansion,civilise,,,,
+assignment,house synonyms × train synonyms,mansion,civilize,,,,
+assignment,house synonyms × train synonyms,mansion,cultivate,,,,
+assignment,house synonyms × train synonyms,mansion,gear,0.125,0.588235,mansion.n.02; gear.n.04,mansion.n.02; gear.n.04
+assignment,house synonyms × train synonyms,mansion,gearing,0.090909,0.5,mansion.n.02; gearing.n.01,mansion.n.02; gearing.n.01
+assignment,house synonyms × train synonyms,mansion,geartrain,0.090909,0.5,mansion.n.02; gearing.n.01,mansion.n.02; gearing.n.01
+assignment,house synonyms × train synonyms,mansion,power_train,0.090909,0.5,mansion.n.02; gearing.n.01,mansion.n.02; gearing.n.01
+assignment,house synonyms × train synonyms,mansion,rail,0.142857,0.666667,mansion.n.02; railing.n.01,mansion.n.02; railing.n.01
+assignment,house synonyms × train synonyms,mansion,school,0.25,0.823529,mansion.n.02; school.n.02,mansion.n.02; school.n.02
+assignment,house synonyms × train synonyms,mansion,trail,0.166667,0.615385,sign_of_the_zodiac.n.01; trail.n.01,sign_of_the_zodiac.n.01; trail.n.01
+assignment,house synonyms × train synonyms,mansion,wagon_train,0.090909,0.166667,sign_of_the_zodiac.n.01; caravan.n.01,sign_of_the_zodiac.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,menage,aim,0.090909,0.285714,family.n.01; aim.n.02,family.n.01; aim.n.02
+assignment,house synonyms × train synonyms,menage,prepare,,,,
+assignment,house synonyms × train synonyms,menage,develop,,,,
+assignment,house synonyms × train synonyms,menage,direct,,,,
+assignment,house synonyms × train synonyms,menage,discipline,0.111111,0.333333,family.n.01; discipline.n.03,family.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,menage,educate,,,,
+assignment,house synonyms × train synonyms,menage,take,0.071429,0.235294,family.n.01; return.n.06,family.n.01; return.n.06
+assignment,house synonyms × train synonyms,menage,coach,0.076923,0.142857,family.n.01; coach.n.01,family.n.01; coach.n.01
+assignment,house synonyms × train synonyms,menage,caravan,0.125,0.461538,family.n.01; caravan.n.01,family.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,menage,condition,0.111111,0.333333,family.n.01; condition.n.01,family.n.01; condition.n.01
+assignment,house synonyms × train synonyms,menage,groom,0.071429,0.133333,family.n.01; groom.n.01,family.n.01; groom.n.01
+assignment,house synonyms × train synonyms,menage,railroad_train,0.066667,0.125,family.n.01; train.n.01,family.n.01; train.n.01
+assignment,house synonyms × train synonyms,menage,string,0.142857,0.5,family.n.01; string.n.09,family.n.01; string.n.09
+assignment,house synonyms × train synonyms,menage,take_aim,,,,
+assignment,house synonyms × train synonyms,menage,check,0.1,0.307692,family.n.01; arrest.n.02,family.n.01; arrest.n.02
+assignment,house synonyms × train synonyms,menage,civilise,,,,
+assignment,house synonyms × train synonyms,menage,civilize,,,,
+assignment,house synonyms × train synonyms,menage,cultivate,,,,
+assignment,house synonyms × train synonyms,menage,gear,0.071429,0.133333,family.n.01; gear.n.04,family.n.01; gear.n.04
+assignment,house synonyms × train synonyms,menage,gearing,0.058824,0.111111,family.n.01; gearing.n.01,family.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,menage,geartrain,0.058824,0.111111,family.n.01; gearing.n.01,family.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,menage,power_train,0.058824,0.111111,family.n.01; gearing.n.01,family.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,menage,rail,0.111111,0.555556,family.n.01; rail.n.02,family.n.01; rail.n.02
+assignment,house synonyms × train synonyms,menage,school,0.166667,0.666667,family.n.01; school.n.01,family.n.01; school.n.01
+assignment,house synonyms × train synonyms,menage,trail,0.090909,0.285714,family.n.01; lead.n.03,family.n.01; lead.n.03
+assignment,house synonyms × train synonyms,menage,wagon_train,0.125,0.461538,family.n.01; caravan.n.01,family.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,planetary_house,aim,0.142857,0.571429,sign_of_the_zodiac.n.01; bearing.n.02,sign_of_the_zodiac.n.01; bearing.n.02
+assignment,house synonyms × train synonyms,planetary_house,prepare,,,,
+assignment,house synonyms × train synonyms,planetary_house,develop,,,,
+assignment,house synonyms × train synonyms,planetary_house,direct,,,,
+assignment,house synonyms × train synonyms,planetary_house,discipline,0.1,0.181818,sign_of_the_zodiac.n.01; discipline.n.03,sign_of_the_zodiac.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,planetary_house,educate,,,,
+assignment,house synonyms × train synonyms,planetary_house,take,0.066667,0.125,sign_of_the_zodiac.n.01; return.n.06,sign_of_the_zodiac.n.01; return.n.06
+assignment,house synonyms × train synonyms,planetary_house,coach,0.1,0.4,sign_of_the_zodiac.n.01; bus.n.01,sign_of_the_zodiac.n.01; bus.n.01
+assignment,house synonyms × train synonyms,planetary_house,caravan,0.090909,0.333333,sign_of_the_zodiac.n.01; caravan.n.01,sign_of_the_zodiac.n.01; van.n.04
+assignment,house synonyms × train synonyms,planetary_house,condition,0.1,0.181818,sign_of_the_zodiac.n.01; condition.n.01,sign_of_the_zodiac.n.01; condition.n.01
+assignment,house synonyms × train synonyms,planetary_house,groom,0.090909,0.375,sign_of_the_zodiac.n.01; groom.n.01,sign_of_the_zodiac.n.01; groom.n.01
+assignment,house synonyms × train synonyms,planetary_house,railroad_train,0.1,0.4,sign_of_the_zodiac.n.01; train.n.01,sign_of_the_zodiac.n.01; train.n.01
+assignment,house synonyms × train synonyms,planetary_house,string,0.111111,0.428571,sign_of_the_zodiac.n.01; string.n.01,sign_of_the_zodiac.n.01; string.n.01
+assignment,house synonyms × train synonyms,planetary_house,take_aim,,,,
+assignment,house synonyms × train synonyms,planetary_house,check,0.1,0.4,sign_of_the_zodiac.n.01; check.n.10,sign_of_the_zodiac.n.01; check.n.10
+assignment,house synonyms × train synonyms,planetary_house,civilise,,,,
+assignment,house synonyms × train synonyms,planetary_house,civilize,,,,
+assignment,house synonyms × train synonyms,planetary_house,cultivate,,,,
+assignment,house synonyms × train synonyms,planetary_house,gear,0.111111,0.428571,sign_of_the_zodiac.n.01; gear.n.04,sign_of_the_zodiac.n.01; gear.n.04
+assignment,house synonyms × train synonyms,planetary_house,gearing,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,planetary_house,geartrain,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,planetary_house,power_train,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,planetary_house,rail,0.1,0.4,sign_of_the_zodiac.n.01; rail.n.04,sign_of_the_zodiac.n.01; rail.n.04
+assignment,house synonyms × train synonyms,planetary_house,school,0.111111,0.428571,sign_of_the_zodiac.n.01; school.n.02,sign_of_the_zodiac.n.01; school.n.02
+assignment,house synonyms × train synonyms,planetary_house,trail,0.166667,0.615385,sign_of_the_zodiac.n.01; trail.n.01,sign_of_the_zodiac.n.01; trail.n.01
+assignment,house synonyms × train synonyms,planetary_house,wagon_train,0.090909,0.166667,sign_of_the_zodiac.n.01; caravan.n.01,sign_of_the_zodiac.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,put_up,aim,0.2,0.5,post.v.10; aim.v.01,post.v.10; aim.v.01
+assignment,house synonyms × train synonyms,put_up,prepare,0.333333,0.75,can.v.01; cook.v.02,can.v.01; cook.v.02
+assignment,house synonyms × train synonyms,put_up,develop,0.2,0.5,post.v.10; develop.v.16,post.v.10; develop.v.16
+assignment,house synonyms × train synonyms,put_up,direct,0.25,0.5,raise.v.09; direct.v.03,post.v.10; aim.v.01
+assignment,house synonyms × train synonyms,put_up,discipline,0.166667,0.285714,put_up.v.02; discipline.v.02,put_up.v.02; discipline.v.02
+assignment,house synonyms × train synonyms,put_up,educate,0.142857,0.25,put_up.v.02; educate.v.01,put_up.v.02; educate.v.01
+assignment,house synonyms × train synonyms,put_up,take,0.333333,0.666667,nominate.v.01; choose.v.01,nominate.v.01; choose.v.01
+assignment,house synonyms × train synonyms,put_up,coach,0.1,0.181818,digest.v.03; coach.v.01,put_up.v.02; coach.v.01
+assignment,house synonyms × train synonyms,put_up,caravan,0.166667,0.285714,put_up.v.02; caravan.v.01,put_up.v.02; caravan.v.01
+assignment,house synonyms × train synonyms,put_up,condition,0.142857,0.25,put_up.v.02; condition.v.04,put_up.v.02; condition.v.04
+assignment,house synonyms × train synonyms,put_up,groom,0.125,0.222222,put_up.v.02; dress.v.15,put_up.v.02; dress.v.15
+assignment,house synonyms × train synonyms,put_up,railroad_train,,,,
+assignment,house synonyms × train synonyms,put_up,string,0.2,0.5,post.v.10; string.v.01,post.v.10; string.v.01
+assignment,house synonyms × train synonyms,put_up,take_aim,0.2,0.5,post.v.10; aim.v.01,post.v.10; aim.v.01
+assignment,house synonyms × train synonyms,put_up,check,0.2,0.333333,put_up.v.02; check.v.08,put_up.v.02; check.v.08
+assignment,house synonyms × train synonyms,put_up,civilise,0.166667,0.285714,put_up.v.02; civilize.v.02,put_up.v.02; civilize.v.02
+assignment,house synonyms × train synonyms,put_up,civilize,0.166667,0.285714,put_up.v.02; civilize.v.02,put_up.v.02; civilize.v.02
+assignment,house synonyms × train synonyms,put_up,cultivate,0.2,0.333333,put_up.v.02; cultivate.v.01,put_up.v.02; cultivate.v.01
+assignment,house synonyms × train synonyms,put_up,gear,0.142857,0.25,put_up.v.02; gear.v.01,put_up.v.02; gear.v.01
+assignment,house synonyms × train synonyms,put_up,gearing,0.142857,0.25,put_up.v.02; gear.v.01,put_up.v.02; gear.v.01
+assignment,house synonyms × train synonyms,put_up,geartrain,,,,
+assignment,house synonyms × train synonyms,put_up,power_train,,,,
+assignment,house synonyms × train synonyms,put_up,rail,0.25,0.666667,house.v.02; rail.v.03,house.v.02; rail.v.03
+assignment,house synonyms × train synonyms,put_up,school,0.142857,0.25,put_up.v.02; school.v.03,put_up.v.02; school.v.03
+assignment,house synonyms × train synonyms,put_up,trail,0.2,0.333333,put_up.v.02; trail.v.04,put_up.v.02; trail.v.04
+assignment,house synonyms × train synonyms,put_up,wagon_train,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,aim,0.142857,0.571429,sign_of_the_zodiac.n.01; bearing.n.02,sign_of_the_zodiac.n.01; bearing.n.02
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,prepare,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,develop,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,direct,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,discipline,0.1,0.181818,sign_of_the_zodiac.n.01; discipline.n.03,sign_of_the_zodiac.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,educate,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,take,0.066667,0.125,sign_of_the_zodiac.n.01; return.n.06,sign_of_the_zodiac.n.01; return.n.06
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,coach,0.1,0.4,sign_of_the_zodiac.n.01; bus.n.01,sign_of_the_zodiac.n.01; bus.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,caravan,0.090909,0.333333,sign_of_the_zodiac.n.01; caravan.n.01,sign_of_the_zodiac.n.01; van.n.04
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,condition,0.1,0.181818,sign_of_the_zodiac.n.01; condition.n.01,sign_of_the_zodiac.n.01; condition.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,groom,0.090909,0.375,sign_of_the_zodiac.n.01; groom.n.01,sign_of_the_zodiac.n.01; groom.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,railroad_train,0.1,0.4,sign_of_the_zodiac.n.01; train.n.01,sign_of_the_zodiac.n.01; train.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,string,0.111111,0.428571,sign_of_the_zodiac.n.01; string.n.01,sign_of_the_zodiac.n.01; string.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,take_aim,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,check,0.1,0.4,sign_of_the_zodiac.n.01; check.n.10,sign_of_the_zodiac.n.01; check.n.10
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,civilise,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,civilize,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,cultivate,,,,
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,gear,0.111111,0.428571,sign_of_the_zodiac.n.01; gear.n.04,sign_of_the_zodiac.n.01; gear.n.04
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,gearing,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,geartrain,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,power_train,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,rail,0.1,0.4,sign_of_the_zodiac.n.01; rail.n.04,sign_of_the_zodiac.n.01; rail.n.04
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,school,0.111111,0.428571,sign_of_the_zodiac.n.01; school.n.02,sign_of_the_zodiac.n.01; school.n.02
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,trail,0.166667,0.615385,sign_of_the_zodiac.n.01; trail.n.01,sign_of_the_zodiac.n.01; trail.n.01
+assignment,house synonyms × train synonyms,sign_of_the_zodiac,wagon_train,0.090909,0.166667,sign_of_the_zodiac.n.01; caravan.n.01,sign_of_the_zodiac.n.01; caravan.n.01
+assignment,house synonyms × train synonyms,star_sign,aim,0.142857,0.571429,sign_of_the_zodiac.n.01; bearing.n.02,sign_of_the_zodiac.n.01; bearing.n.02
+assignment,house synonyms × train synonyms,star_sign,prepare,,,,
+assignment,house synonyms × train synonyms,star_sign,develop,,,,
+assignment,house synonyms × train synonyms,star_sign,direct,,,,
+assignment,house synonyms × train synonyms,star_sign,discipline,0.1,0.181818,sign_of_the_zodiac.n.01; discipline.n.03,sign_of_the_zodiac.n.01; discipline.n.03
+assignment,house synonyms × train synonyms,star_sign,educate,,,,
+assignment,house synonyms × train synonyms,star_sign,take,0.066667,0.125,sign_of_the_zodiac.n.01; return.n.06,sign_of_the_zodiac.n.01; return.n.06
+assignment,house synonyms × train synonyms,star_sign,coach,0.1,0.4,sign_of_the_zodiac.n.01; bus.n.01,sign_of_the_zodiac.n.01; bus.n.01
+assignment,house synonyms × train synonyms,star_sign,caravan,0.090909,0.333333,sign_of_the_zodiac.n.01; caravan.n.01,sign_of_the_zodiac.n.01; van.n.04
+assignment,house synonyms × train synonyms,star_sign,condition,0.1,0.181818,sign_of_the_zodiac.n.01; condition.n.01,sign_of_the_zodiac.n.01; condition.n.01
+assignment,house synonyms × train synonyms,star_sign,groom,0.090909,0.375,sign_of_the_zodiac.n.01; groom.n.01,sign_of_the_zodiac.n.01; groom.n.01
+assignment,house synonyms × train synonyms,star_sign,railroad_train,0.1,0.4,sign_of_the_zodiac.n.01; train.n.01,sign_of_the_zodiac.n.01; train.n.01
+assignment,house synonyms × train synonyms,star_sign,string,0.111111,0.428571,sign_of_the_zodiac.n.01; string.n.01,sign_of_the_zodiac.n.01; string.n.01
+assignment,house synonyms × train synonyms,star_sign,take_aim,,,,
+assignment,house synonyms × train synonyms,star_sign,check,0.1,0.4,sign_of_the_zodiac.n.01; check.n.10,sign_of_the_zodiac.n.01; check.n.10
+assignment,house synonyms × train synonyms,star_sign,civilise,,,,
+assignment,house synonyms × train synonyms,star_sign,civilize,,,,
+assignment,house synonyms × train synonyms,star_sign,cultivate,,,,
+assignment,house synonyms × train synonyms,star_sign,gear,0.111111,0.428571,sign_of_the_zodiac.n.01; gear.n.04,sign_of_the_zodiac.n.01; gear.n.04
+assignment,house synonyms × train synonyms,star_sign,gearing,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,star_sign,geartrain,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,star_sign,power_train,0.083333,0.352941,sign_of_the_zodiac.n.01; gearing.n.01,sign_of_the_zodiac.n.01; gearing.n.01
+assignment,house synonyms × train synonyms,star_sign,rail,0.1,0.4,sign_of_the_zodiac.n.01; rail.n.04,sign_of_the_zodiac.n.01; rail.n.04
+assignment,house synonyms × train synonyms,star_sign,school,0.111111,0.428571,sign_of_the_zodiac.n.01; school.n.02,sign_of_the_zodiac.n.01; school.n.02
+assignment,house synonyms × train synonyms,star_sign,trail,0.166667,0.615385,sign_of_the_zodiac.n.01; trail.n.01,sign_of_the_zodiac.n.01; trail.n.01
+assignment,house synonyms × train synonyms,star_sign,wagon_train,0.090909,0.166667,sign_of_the_zodiac.n.01; caravan.n.01,sign_of_the_zodiac.n.01; caravan.n.01
+student,potato synonyms × tiger synonyms,irish_potato,panthera_tigris,0.05,0.173913,potato.n.01; tiger.n.02,potato.n.01; tiger.n.02
+student,potato synonyms × tiger synonyms,murphy,panthera_tigris,0.05,0.173913,potato.n.01; tiger.n.02,potato.n.01; tiger.n.02
+student,potato synonyms × tiger synonyms,solanum_tuberosum,panthera_tigris,0.071429,0.48,potato.n.02; tiger.n.02,potato.n.02; tiger.n.02
+student,potato synonyms × tiger synonyms,spud,panthera_tigris,0.052632,0.307692,spud.n.02; tiger.n.02,spud.n.02; tiger.n.02
+student,potato synonyms × tiger synonyms,tater,panthera_tigris,0.05,0.173913,potato.n.01; tiger.n.02,potato.n.01; tiger.n.02
+student,potato synonyms × tiger synonyms,white_potato,panthera_tigris,0.071429,0.48,potato.n.02; tiger.n.02,potato.n.02; tiger.n.02
+student,potato synonyms × tiger synonyms,white_potato_vine,panthera_tigris,0.071429,0.48,potato.n.02; tiger.n.02,potato.n.02; tiger.n.02

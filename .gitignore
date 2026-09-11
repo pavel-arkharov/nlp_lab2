@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.model_cache/
+data/cache/
+data/nltk_data/
+data/huggingface/
+tmp/

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An interactive, reproducible walkthrough of semantic similarity methods for NLP Laboratory 2.">
+  <meta name="theme-color" content="#10211c">
+  <title>Semantic similarity — NLP Laboratory 2</title>
+  <link rel="preconnect" href="https://ichef.bbci.co.uk">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to the report</a>
+  <header class="hero">
+    <nav class="topbar" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="Lab 2 home"><span>NL</span> Lab 02</a>
+      <div class="toplinks">
+        <a href="#articles">Corpus</a>
+        <a href="#section-a">IR models</a>
+        <a href="#section-b">Semantics</a>
+        <a id="repo-link" href="https://github.com/pavel-arkharov/nlp_lab2">Source ↗</a>
+      </div>
+    </nav>
+    <div id="top" class="hero-inner">
+      <p class="eyebrow">Natural Language Processing · Laboratory 2</p>
+      <h1>Semantic<br><em>similarity</em></h1>
+      <p class="lede">Section A applies document-retrieval methods to news articles. Section B compares lexical and embedding-based word similarity.</p>
+      <div class="hero-stats" aria-label="Experiment summary">
+        <div><strong id="stat-documents">5</strong><span>BBC articles</span></div>
+        <div><strong id="stat-tokens">—</strong><span>raw tokens</span></div>
+        <div><strong id="stat-features">—</strong><span>TF–IDF features</span></div>
+        <div><strong id="stat-models">4</strong><span>embedding models</span></div>
+      </div>
+      <a class="scroll-cue" href="#articles">Explore the experiment <span>↓</span></a>
+    </div>
+  </header>
+
+  <main id="content">
+    <section id="articles" class="corpus section-shell">
+      <div class="section-intro">
+        <p class="kicker">The corpus</p>
+        <h2>Five stories. Five different contexts.</h2>
+        <p>Each card uses the article’s published BBC image and links directly to its source. Select a card to see its raw and normalized corpus statistics.</p>
+      </div>
+      <div id="article-rail" class="article-rail" aria-live="polite"></div>
+    </section>
+
+    <section class="method-band" aria-label="Section A document retrieval workflow">
+      <p class="kicker">Section A · Document-retrieval workflow</p>
+      <ol>
+        <li><span>01</span>Extract and tokenize article text</li>
+        <li><span>02</span>Filter and lemmatize tokens</li>
+        <li><span>03</span>Build document and query vectors</li>
+        <li><span>04</span>Score documents with each model</li>
+        <li><span>05</span>Compare retrieval results</li>
+      </ol>
+    </section>
+
+    <div class="chapters">
+      <aside class="chapter-nav" aria-label="Report chapters">
+        <p>Chapters</p>
+        <a class="active" href="#section-a"><span>A</span> Retrieval</a>
+        <a href="#section-b"><span>B</span> Similarity</a>
+        <a href="#conclusion"><span>→</span> Findings</a>
+      </aside>
+
+      <div class="chapter-content">
+        <section id="section-a" class="chapter-section" data-section="a">
+          <div class="chapter-heading">
+            <div><p class="kicker">Section A · Tasks A1–A12</p><h2>Documents as searchable vectors</h2><p>A1–A4 prepare the corpus, vocabularies, TF–IDF representation, and query. A5–A9 test the retrieval methods. A10 and A12 show the final comparisons.</p></div>
+            <button class="section-toggle" type="button" data-section-toggle="a">Expand all</button>
+          </div>
+          <div id="tasks-a" class="task-list"></div>
+        </section>
+
+        <section id="section-b" class="chapter-section" data-section="b">
+          <div class="chapter-heading">
+            <div><p class="kicker">Section B · Tasks B1–B9</p><h2>Word-level semantic similarity</h2><p>I selected “potato” and “tiger”. Their WordNet relations and similarity in Word2Vec, FastText, GloVe, and BERT are compared below.</p></div>
+            <button class="section-toggle" type="button" data-section-toggle="b">Expand all</button>
+          </div>
+          <div id="tasks-b" class="task-list"></div>
+        </section>
+
+        <section id="conclusion" class="conclusion">
+          <p class="kicker">What the evidence says</p>
+          <h2>No single similarity model owns “meaning.”</h2>
+          <div id="conclusion-grid" class="conclusion-grid"></div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p><strong>NLP Laboratory 2</strong> · <span id="author-name">Pavel Arkharov</span></p>
+    <p><a href="downloads/lab2_report.md">Download report</a> · <a id="footer-repo" href="https://github.com/pavel-arkharov/nlp_lab2">Inspect the complete source ↗</a></p>
+  </footer>
+
+  <noscript>This interactive report requires JavaScript. The complete generated report is available from the download link.</noscript>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

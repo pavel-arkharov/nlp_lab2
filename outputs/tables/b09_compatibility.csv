@@ -1,0 +1,9 @@
+wordnet_metric,embedding_model,pairs,spearman_rho
+path,word2vec,21,-0.094739
+path,fasttext,21,0.033835
+path,glove,21,0.254442
+path,bert,21,0.216547
+wup,word2vec,21,-0.095382
+wup,fasttext,21,0.030441
+wup,glove,21,0.252323
+wup,bert,21,0.213764
